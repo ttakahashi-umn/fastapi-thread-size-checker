@@ -1,0 +1,1 @@
+# fastapi-thread-size-checker
